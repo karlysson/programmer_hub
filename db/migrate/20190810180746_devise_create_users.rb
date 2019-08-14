@@ -3,7 +3,6 @@
 class DeviseCreateUsers < ActiveRecord::Migration[5.0]
   def change
     create_table :users do |t|
-
       ## My Dados
       t.string :name, null: false, comment: 'Nome'
       t.string :description, null: false, comment: 'Descrição'
