@@ -21,5 +21,15 @@
     <footer>
       <%= render "shared/footer" %>
     </footer>
+
+    <% flash.each do |message_type, message| %>
+    
+      <% if message_type == 'alert' %>
+        <%= javascript_tag "M.toast({html: '#{message}', classes: 'red'})" %>
+      <% else message_type == 'notice' %>
+        <%= javascript_tag "M.toast({html: '#{message}', classes: 'green'})" %>
+      <% end %>
+    <% end %>
+
   </body>
 </html>
