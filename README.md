@@ -26,7 +26,7 @@ Here are the technologies used in this project.
 * [DB designer](https://www.dbdesigner.net/)
 
 * Relationship Entity Diagram - DER
-![Chat Preview](https://raw.githubusercontent.com/karlysson/programmer_hub/master/doc/DER.png)
+![Chat Preview](https://raw.githubusercontent.com/karlysson/programmer_hub/master/doc/DER1.png)
 
 ## Ruby Gems
 
