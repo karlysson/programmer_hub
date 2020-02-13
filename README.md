@@ -1,5 +1,5 @@
 
-![Logo of the project](https://raw.githubusercontent.com/karlysson/programmer_hub/master/doc/logo.jpg)
+![Logo of the project](https://raw.githubusercontent.com/karlysson/programmer_hub/master/doc/logo.png)
 
 
 ## Programmer Hub 
