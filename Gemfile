@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 
 # My gem
 gem 'cancancan'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'devise'
 gem 'material_icons'
 gem 'materialize-sass'
